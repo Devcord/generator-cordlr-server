@@ -1,0 +1,8 @@
+{
+  "token":"<%= botToken %>",
+  "prefix":"<%= botPrefix %>",
+  "plugins": [
+    "cordlr-help2",
+    "cordlr-giphy"
+  ]
+}
