@@ -1,0 +1,17 @@
+{
+  "name": "<%= botName %>",
+  "version": "1.0.0",
+  "description": "Cordlr Bot: <%= botName %>",
+  "main": "index.js",
+  "scripts": {
+    "start": "cordlr-cli",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cordlr-cli": "^0.3.3",
+    "cordlr-giphy": "^1.0.4",
+    "cordlr-help2": "^1.0.0"
+  }
+}
