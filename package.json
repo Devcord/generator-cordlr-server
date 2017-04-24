@@ -1,6 +1,6 @@
 {
   "name": "generator-cordlr-server",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Creates an empty Cordlr server",
   "homepage": "https://devcord.github.io/cordlr-cli",
   "author": {
